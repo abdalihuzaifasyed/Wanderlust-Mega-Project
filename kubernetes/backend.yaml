@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: huzaifaabdalimaxapex/wanderlust-backend-beta:v15
+          image: huzaifaabdalimaxapex/wanderlust-backend-beta:
           ports:
             - containerPort: 8080
 ---
